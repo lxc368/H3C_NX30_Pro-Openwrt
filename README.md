@@ -1,6 +1,6 @@
 # H3C NX30 Pro openwrt Action自动构建
 
-内置插件:DDNS，Wireguard，zerotier，WOL网络唤醒，UPnP，serverchan，ipv6-helper，Easymash
+内置插件:DDNS，Wireguard，Zerotier，WOL网络唤醒，UPnP，serverchan，ipv6-helper
 
 默认SSID：H3CWIFI  默认密码：password  
 
