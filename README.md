@@ -1,4 +1,6 @@
-# H3C NX30 Pro openwrt Action自动构建
+# H3C NX30 Pro LEDE Action自动构建
+
+mt76开源无线驱动
 
 内置插件:DDNS，Wireguard，Zerotier，WOL网络唤醒，UPnP，serverchan，ipv6-helper
 
